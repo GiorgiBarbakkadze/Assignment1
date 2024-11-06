@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="enter_email_hint">enter recepient\'s email</string>
+    <string name="enter_message_hint">enter your message here</string>
+    <string name="send_message_btn_text">Send Message</string>
+    <string name="incorrect_email_msg">email should containt @</string>
+    <string name="clear_btn_txt">clear</string>
+</resources>
